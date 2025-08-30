@@ -1,7 +1,5 @@
 # ⏰ ChronoMate  
-
 ![Logo](Logo.png)  
-
 A modern, stylish, and customizable **Countdown Timer** app built with **Python (Tkinter)**.  
 Easily manage your time with **dark mode**, **custom alarm sounds**, and **desktop notifications**.  
 
@@ -27,11 +25,8 @@ Easily manage your time with **dark mode**, **custom alarm sounds**, and **deskt
 - Libraries :--
   
     -- tkinter (built-in)
-  
     -- Pillow 🖼️ (for logo handling)
-  
     -- plyer 🔔 (for desktop notifications)
-  
     -- playsound 🎵 (for alarm sound)
 
 ### ⚡ How It Works :--
@@ -48,12 +43,6 @@ Easily manage your time with **dark mode**, **custom alarm sounds**, and **deskt
 - Dark Mode 🌙 – Sleek and modern
 
 ### ⏰ Stay productive. Stay on time with ChronoMate! ⏰
-
-🛠️ Future Improvements :--
-
-- ✅ Add support for multiple timers
-- ✅ Option to save favorite alarm sounds
-- ✅ Timer presets for productivity (Pomodoro 🍅)
 
 🤝 Contributions are welcome!
 
