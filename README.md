@@ -25,9 +25,13 @@ Easily manage your time with **dark mode**, **custom alarm sounds**, and **deskt
 
 - Python 3.7+
 - Libraries :--
+  
     -- tkinter (built-in)
+  
     -- Pillow 🖼️ (for logo handling)
+  
     -- plyer 🔔 (for desktop notifications)
+  
     -- playsound 🎵 (for alarm sound)
 
 ### ⚡ How It Works :--
